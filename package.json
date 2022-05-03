@@ -5,12 +5,12 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "chalk": "^5.0.1",
+    "axios": "^0.27.2",
     "commander": "^9.2.0",
-    "prompts": "^2.4.2",
+    "image-size": "^1.0.1",
+    "pdfkit": "^0.13.0",
     "puppeteer": "^13.6.0",
     "puppeteer-extra": "^3.2.3",
-    "puppeteer-extra-plugin-recaptcha": "^3.5.0",
     "puppeteer-extra-plugin-stealth": "^2.9.0",
     "user-agents": "^1.0.992"
   },
